@@ -4,4 +4,4 @@ Designed and deployed a Dialogflow-based AI chatbot tailored for customer suppor
 💡 What I Learned:
 Gained hands-on experience integrating Dialogflow agents into live websites, using intents, entities, and contexts to build natural conversation flows. Developed skills in frontend UI/UX design for interactive chat interfaces and understood the importance of accessibility, usability, and error handling in building smart digital assistants.<br><br>
 🛠 Tool Used: Dialogflow (Google's NLP Platform)<br><br>
-💻 Customization: HTML & CSS for UI/UX enhancements
+💻 Customization: HTML,CSS & JS for UI/UX enhancements
