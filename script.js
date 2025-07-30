@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
    window.downloadCV = function () {
     const link = document.createElement('a');
     link.href = 'assets/Swarnima_Mohanta_CV.pdf';
-    link.download = 'Swarnima_Mohanta_CV.pdf';
+    link.download = 'Download_CV.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
